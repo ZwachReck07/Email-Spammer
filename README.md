@@ -1,2 +1,31 @@
-# hitmail
-Telegram bot based email bomber
+<div align="center">
+
+# https://hitmail.in - Easy to use best email bomber
+![Status](https://img.shields.io/badge/status-working-lime)
+
+</div>
+
+# Free Spammer
+For unlimited spamming with more emails: use our official telegram bot (link above)
+
+## Run
+
+1. Install Python https://www.python.org/
+2. For Windows run the **run.bat** file
+3. For linux or termux run `python3 striker.pyc`
+4. Enter email and press enter
+
+## Preview
+![spammer-preview](https://i.ibb.co/7kcTDFY/preview.png)
+
+## Contact for queries
+
+<a href="https://t.me/eternalodball"><img src="https://static.vecteezy.com/system/resources/previews/018/930/479/original/telegram-logo-telegram-icon-transparent-free-png.png" width="126" alt="Telegram"/></a>
+<a href="https://t.me/hitmailpro"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqisajcuqgEBg05gUKz5MX3k6CFQoXThhde0LECDOocysVuSAFFh5hECH4cLVyCpM7pM&usqp=CAU" width="126" alt="Telegram-Channel"/></a>
+
+## Legal Disclaimer
+This tool should only be used for informational purposes; it should not be used for any illegal or unauthorized activity, such as spamming websites. We neither endorse nor support such behavior.
+
+
+# Visitors count
+![Visitor Count](https://profile-counter.glitch.me/zwachreck07/count.svg)
