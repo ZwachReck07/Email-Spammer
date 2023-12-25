@@ -21,7 +21,7 @@ For unlimited spamming with more emails: use our official telegram bot (link abo
 ## Contact for queries
 
 <a href="https://t.me/eternalodball"><img src="https://static.vecteezy.com/system/resources/previews/018/930/479/original/telegram-logo-telegram-icon-transparent-free-png.png" width="126" alt="Telegram"/></a>
-<a href="https://discord.com/users/1188984795426988133"><img src="https://i.ibb.co/fS6nPg6/discord-new-20218785-removebg-preview.png" width="160" alt="Discord"/></a>
+<a href="https://discordapp.com/users/1188984795426988133"><img src="https://i.ibb.co/fS6nPg6/discord-new-20218785-removebg-preview.png" width="160" alt="Discord"/></a>
 
 ## Legal Disclaimer
 This tool should only be used for informational purposes; it should not be used for any illegal or unauthorized activity, such as spamming websites. We neither endorse nor support such behavior.
